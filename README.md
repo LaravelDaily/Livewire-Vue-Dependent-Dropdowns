@@ -7,6 +7,7 @@
 - Run `composer install`
 - Run `php artisan key:generate`
 - Run `php artisan migrate --seed` (it has some seeded data for your testing)
+- Run `npm install && npm run dev` to compile Vue and other front-end assets
 - That's it: launch the main URL
 
 
